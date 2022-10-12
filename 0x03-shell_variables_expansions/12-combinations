@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {aa..zz} |rm oo
+echo {a..z} {a..z} | rm oo |wc
