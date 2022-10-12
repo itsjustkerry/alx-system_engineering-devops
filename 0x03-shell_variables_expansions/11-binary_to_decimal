@@ -1,2 +1,2 @@
 #!/bin/bash
-echo [base 10]base 2
+echo [base 10]BINARY
