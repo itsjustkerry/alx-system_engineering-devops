@@ -1,2 +1,3 @@
 #!/bin/bash
-TRUEKNOWLEDGE="128"
+export TRUEKNOWLEDGE="128"
+echo $((128+128))
