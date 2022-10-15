@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n l
+cut -c1 |paste -s| tr -d "[:blank:]"
